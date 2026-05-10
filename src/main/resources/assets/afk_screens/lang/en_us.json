@@ -1,0 +1,7 @@
+{
+  "screen.afk_screens.afk_screen" : "AFK Screen",
+  "screen.afk_screens.afk_screen.message" : "Currently AFK",
+
+  "key.categories.afk_screens.": "AFK Screens",
+  "key.afk_screens.open_screen": "Open Screen"
+}
